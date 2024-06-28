@@ -21,7 +21,7 @@ body{
     /* background-color: rgb(165, 116, 162); */
     /* background-color: ; */
 
-    background: url(/assets/img/colorkit.png);
+    background: url(../colorkit.png);
 }
 
 .container{
