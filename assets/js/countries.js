@@ -1,4 +1,4 @@
-let country_list = {
+export const country_list = {
     AED: "AE",
     AFN: "AF",
     XCD: "AG",
